@@ -1,6 +1,4 @@
-hello java 
 
-git command i learn today
-1)git init
-2)git add
-3)git commit
+<html>
+<h1>ok, go ahad with git learing at the earliest.<h1>
+<html>
